@@ -71,11 +71,11 @@
     color: #ff6d6d;
     font-weight: bold;
 }
-.left_section h2{
+.left_section .name_main{
     padding-bottom: 50px;
     font-size: 40px;
 }
-.left_section div{
+.left_section .text{
     padding-bottom: 40px;
     color: #717171;
     line-height: 1;
@@ -83,6 +83,7 @@
 .design{
     color:#ff6d6d;
     letter-spacing: 5px;
+    font-size: 16px;
 }
 .right_section{
     background:#ececec;
@@ -153,7 +154,7 @@
    
     padding-left:70px;
 }
-.text_section h2{
+.text_section .name_main{
     padding-bottom: 20px;
     line-height: 0.9;
     font-size: 40px;
@@ -162,7 +163,7 @@
     color: #ff6d6d;
     font-weight: bold;
 }
-.text_section div{
+.text_section .text{
     line-height: 1;
     color: #717171;
 }
@@ -224,7 +225,7 @@
 }
 .sixth_block .design, h2{
     font-family: "ExoMedium"; 
-    letter-spacing: 5px;
+    letter-spacing: 4px;
 }
 .sixth_block h2{
     font-size: 40px;
